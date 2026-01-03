@@ -1,4 +1,4 @@
-# NooneAVR
+# Ultrasonic HC-SR04
 Codes for AVR base microcontrollers
 
 <p align="center">
